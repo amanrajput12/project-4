@@ -5,7 +5,7 @@
   ![html](./assets/html.svg) ![css](./assets/css.svg)  
     - - - -
 * Skill Gained in this project
-  * Learned to used flex for  align the content in align in row and column using __flex-direction__
+  * Learned to used flex for  align the content in row and column using __flex-direction__
   *  Learned to give __width , height__ to the image.
   * Learned to create button using __padding__  and __border radius__
   * Learned convert list into navbar section using __flex__ and bullet point remote using
